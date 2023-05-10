@@ -1,0 +1,2 @@
+Crie um programa que leia um arquivo de texto e exiba a quantidade de vogais e a quantidade
+de caracteres contidos no texto
